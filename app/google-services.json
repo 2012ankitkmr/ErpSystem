@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2602393819",
+    "firebase_url": "https://erpsystem-1bb7f.firebaseio.com",
+    "project_id": "erpsystem-1bb7f",
+    "storage_bucket": "erpsystem-1bb7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2602393819:android:83288615598339b5",
+        "android_client_info": {
+          "package_name": "kumar.ankit.erpsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2602393819-d4l8qa3e6bnneoaa1i5nrrgdii5ucn65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kumar.ankit.erpsystem",
+            "certificate_hash": "5FC256EDC97FB495F7416639F359434475E13AA6"
+          }
+        },
+        {
+          "client_id": "2602393819-n6l7df6ct3p33bmhsdb823fsidhr7s5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMH3FUZQZui41CqJAp0F2oGtx94vvNiHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2602393819-n6l7df6ct3p33bmhsdb823fsidhr7s5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
